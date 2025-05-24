@@ -3,11 +3,14 @@
 Rainwater retention module
 """
 
+
 def rain(walls):
     """
     Calculates the total amount of rainwater retained between walls.
+
     Arguments:
         walls (list of int): List of non-negative integers representing wall heights.
+
     Returns:
         int: Total units of retained rainwater.
     """
